@@ -44,6 +44,7 @@ namespace ClassLibraryTeclado
             buttonLimpar.Click += handler;
 
             buttonIgual.Click += handler;
+
         }
 
         private void buttonNumZero_Click(object sender, EventArgs e)
